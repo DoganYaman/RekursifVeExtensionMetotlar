@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\bin\Debug\net5.0\recursive-extension-metodlar.exe
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\bin\Debug\net5.0\recursive-extension-metodlar.deps.json
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\bin\Debug\net5.0\recursive-extension-metodlar.runtimeconfig.json
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\bin\Debug\net5.0\recursive-extension-metodlar.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\bin\Debug\net5.0\recursive-extension-metodlar.dll
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\bin\Debug\net5.0\recursive-extension-metodlar.pdb
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\obj\Debug\net5.0\recursive-extension-metodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\obj\Debug\net5.0\recursive-extension-metodlar.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\obj\Debug\net5.0\recursive-extension-metodlar.AssemblyInfo.cs
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\obj\Debug\net5.0\recursive-extension-metodlar.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\obj\Debug\net5.0\recursive-extension-metodlar.dll
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\obj\Debug\net5.0\refint\recursive-extension-metodlar.dll
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\obj\Debug\net5.0\recursive-extension-metodlar.pdb
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\obj\Debug\net5.0\recursive-extension-metodlar.genruntimeconfig.cache
+D:\PatikaDev\Patika_Pratikler\recursive-extension-metodlar\obj\Debug\net5.0\ref\recursive-extension-metodlar.dll
